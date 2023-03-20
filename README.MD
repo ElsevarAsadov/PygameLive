@@ -74,8 +74,8 @@ You should design your game like this to work PygameLive properly(highly recomme
 ```mermaid
 graph LR
 
-B(Game Object 1) --> C(Main Renderer)
-D(Game Object 2) --> C(Main Renderer)
-E(Game Object 3) --> C(Main Renderer)
+B(Game Object Renderer 1) --> C(Main Renderer)
+D(Game Object Renderer 2) --> C(Main Renderer)
+E(Game Object Renderer 3) --> C(Main Renderer)
 ```
-> **Note:** PygameLive only can be used for your main **draw**, **update**, **event** handler methods.
+> **Note:** Please look up example repo and change main.py file with the orginal one.
