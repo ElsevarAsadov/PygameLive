@@ -1,6 +1,6 @@
 
 # About
-This module provides live coding in pygame.You can see your code changes at once without restart application.
+This module provides live coding in pygame.You can see your code changes at once without restarting application.
 
 
 https://user-images.githubusercontent.com/125838640/226334376-04f91f11-1775-49e5-8b04-2704e3355197.mp4
@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/125838640/226334376-04f91f11-1775-49e5
 
 ## Step 1
 
-Import PygameLive class from package.
+Import debugger module from package.
 ```python
 from pygamelive import debugger
 ```
