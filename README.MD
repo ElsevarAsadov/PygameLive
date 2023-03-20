@@ -11,7 +11,11 @@ https://user-images.githubusercontent.com/125838640/226334376-04f91f11-1775-49e5
 &nbsp;
 
 
-> **Note:** Your Game should be implemented OOP style.
+> **Note:** Your Game should be implemented OOP style
+
+# Installing
+
+>**pip install pygamelive**
 
 
 # How to use?
@@ -66,6 +70,7 @@ def run(self):
 
 Example game (FlappyDooM) is made by Stanislav Petrov [StanislavPetrovV](https://github.com/StanislavPetrovV). 
 
+# Critical Info
 You should design your game like this to work PygameLive properly(highly recommended to look up example folder):
 
 ```mermaid
