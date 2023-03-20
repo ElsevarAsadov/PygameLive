@@ -1,0 +1,24 @@
+[build-system]
+requires      = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pygamelive"
+version = "1.0.0"
+description = "Live coding in your pygame projects!"
+readme = "README.md"
+authors = [{ name = "ElsevarAsadov", email = "elseverclash57@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["python", "pygame", "livecoding"]
+dependencies = [
+]
+requires-python = ">=3.2"
+
+[project.urls]
+Homepage = "https://github.com/ElsevarAsadov/PygameLive"
+
