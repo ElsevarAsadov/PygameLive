@@ -57,7 +57,6 @@ def run(self):
             self.py_live.debug(self.check_events)
 ```
 
-## Step 4
 
 Your code changes on the methods which you added using **self.py_live.debug(self.draw)** will be displayed immediately
 > **Note:** You can name your methods differently but the design of your game should be alike the design pattern noted below.
