@@ -67,8 +67,6 @@ Your code changes on the methods which you added using **self.py_live.debug(self
 
 Example game (FlappyDooM) is made by Stanislav Petrov [StanislavPetrovV](https://github.com/StanislavPetrovV). 
 
-![alt text](https://github.com/StanislavPetrovV/FlappyDooM/raw/main/screenshot/0.jpg)
-
 You should design your game like this to work PygameLive properly(highly recommended to look up example folder):
 
 ```mermaid
