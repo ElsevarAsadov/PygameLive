@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/125838640/226334376-04f91f11-1775-49e5
 
 Import PygameLive class from package.
 ```python
-from python_debugger import PygameLive
+from pygamelive import debugger
 ```
 
 ## Step 2
@@ -41,7 +41,7 @@ def __init__(self):
         self.fire = DoomFire(self)
         self.new_game()
 
-        self.py_live = PygameLive()
+        self.py_live = debugger.PygameLive()
   ```
 
 ## Step 3
