@@ -1,0 +1,3 @@
+[submodule "example/FlappyDooM"]
+	path = example/FlappyDooM
+	url = https://github.com/StanislavPetrovV/FlappyDooM.git
