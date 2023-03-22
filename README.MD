@@ -3,6 +3,8 @@
 This module provides live coding in pygame.You can see your code changes at once without restarting application.
 
 
+This is version is not full version in the future i will develop more advanced...
+
 https://user-images.githubusercontent.com/125838640/226334376-04f91f11-1775-49e5-8b04-2704e3355197.mp4
 
 
